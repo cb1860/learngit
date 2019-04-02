@@ -1,0 +1,2 @@
+This is an another text file.
+This file record the license.
