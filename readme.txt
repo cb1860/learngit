@@ -5,4 +5,4 @@ Git tracks changes of files.
 creating a new branch is quick.
 Creating a new branch is quick AND simple.
 close fast forward mode.
-
+git test for stash order.
